@@ -136,6 +136,7 @@ anchor-dice-game
 
 9 passing
 ```
+<img width="2572" height="1052" alt="image" src="https://github.com/user-attachments/assets/19e47504-7e85-4462-b76d-aa2671de72c6" />
 
 ## Prerequisites
 
